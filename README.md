@@ -7,10 +7,10 @@
 
 ### 1. 입출력과 사칙연산
 
-|   [2557 : Hello World](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.1_2557_HellloWorld.py)   | [10718 : We Love kriii](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.2_10718_WeLoveKriii.py)  | [2557 : Hello World](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.1_2557_HellloWorld.py) |
-| :------------ |:---------------:| -----:|
-| [10718 : We Love kriii](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.2_10718_WeLoveKriii.py)     | [1000 : A+B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.3_1000_A%2BB.py) | [1001 : A-B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.4-1001_A-B.py) |
-|  [10998 : A*B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.5_10998_AXB.py)      | [10430 : 나머지](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.8_10430.py)     |   [2558 : 곱셈](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.9_2558(%EA%B3%B1%EC%85%88).ipynb)|
+| [2557 : Hello World](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.1_2557_HellloWorld.py) | [10718 : We Love kriii](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.2_10718_WeLoveKriii.py) | [1000 : A+B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.3_1000_A%2BB.py) |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | -----------------------------------------------------------: |
+| [1001 : A-B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.4-1001_A-B.py) | [10998 : A*B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.5_10998_AXB.py) | [1008 : A/B]([https://github.com/shiney5213/Algorithm-study/blob/master/python/1.6_1008_A%25B.ipynb](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.6_1008_A%B.ipynb)) |
+| [10868 : 사칙연산](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.7_10869_calculator.py) | [10430 : 나머지](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.8_10430.py) | [2558 : 곱셈](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.9_2558(%EA%B3%B1%EC%85%88).ipynb) |
 
 
 ### 2. if문
