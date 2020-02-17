@@ -20,7 +20,7 @@ data/
 
 ### Images ###
 # JPEG
-*.jpg
+
 *.jpeg
 *.jpe
 *.jif
@@ -50,7 +50,7 @@ data/
 *.webp
 
 # Portable Network Graphics
-*.png
+
 
 # Animated Portable Network Graphics
 *.apng
