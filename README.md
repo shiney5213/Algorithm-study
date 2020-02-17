@@ -17,14 +17,14 @@
 
 |  [1330 : 두 수 비교하기](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.1_1330(%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0).ipynb)  | [9498 : 시험 성적](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.2_9498(%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81).ipynb)  | [2753 : 윤년](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.3_2753(%EC%9C%A4%EB%85%84).ipynb) |
 | :------------ |:---------------:| -----:|
-|  [2884 : 알람시계]()    | [10817 : 세 수](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.5_10817(%EC%84%B8%20%EC%88%98).ipynb) |     |
+|  [2884 : 알람시계](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.3_2884(%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84).ipynb)    | [10817 : 세 수](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.5_10817(%EC%84%B8%20%EC%88%98).ipynb) |     |
 
 
 
 ### 3. for문
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| [2739 : 구구단 ](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.1_2739(%EA%B5%AC%EA%B5%AC%EB%8B%A8).ipynb)]  | [10950 : A+B-3]  | [8393 : 합] |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
+| [15552: 빠른 A + B]    | [2741 : N찍기] | [2742: 기찍 N] |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
