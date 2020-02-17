@@ -5,32 +5,43 @@
 > Algorithm study in Baekjun site
 > [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/)
 
-## 1. 입출력과 사칙연산
-- [2557 : Hello World](https://www.acmicpc.net/problem/2557) - [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.1_2557_HellloWorld.py)
-- [10718 : We Love kriii](https://www.acmicpc.net/problem/10718) - [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.2_10718_WeLoveKriii.py)
-- [1000 : A+B](https://www.acmicpc.net/problem/1000)  - [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.3_1000_A%2BB.py)
-- [1001 : A-B](https://www.acmicpc.net/problem/1001) - [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.4-1001_A-B.py)
-- [10998 : A*B](https://www.acmicpc.net/problem/10998) - [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.5_10998_AXB.py)
-- [1008 : A/B](https://www.acmicpc.net/problem/1008)- [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.6_1008_A%B.ipynb)
-- [10869 : 사칙연산](https://www.acmicpc.net/problem/10869) - [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.7_10869_calculator.py)
-- [10430 : 나머지](https://www.acmicpc.net/problem/10430) = [python](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.8_10430.py)
-- [2558 : 곱셈](https://www.acmicpc.net/problem/2588) - [python_v1](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.3_2588.py) , [python_v2](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.3_2588_v2.py)
+### 1. 입출력과 사칙연산
+
+| [2557 : Hello World](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.1_2557_HellloWorld.py) | [10718 : We Love kriii](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.2_10718_WeLoveKriii.py) | [1000 : A+B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.3_1000_A%2BB.py) |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | -----------------------------------------------------------: |
+| [1001 : A-B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.4-1001_A-B.py) | [10998 : A*B](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.5_10998_AXB.py) | [1008 : A/B]([https://github.com/shiney5213/Algorithm-study/blob/master/python/1.6_1008_A%25B.ipynb](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.6_1008_A%B.ipynb)) |
+| [10868 : 사칙연산](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.7_10869_calculator.py) | [10430 : 나머지](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.8_10430.py) | [2558 : 곱셈](https://github.com/shiney5213/Algorithm-study/blob/master/python/1.9_2558(%EA%B3%B1%EC%85%88).ipynb) |
+
+
+### 2. if문
+
+|  [1330 : 두 수 비교하기](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.1_1330(%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0).ipynb)  | [9498 : 시험 성적](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.2_9498(%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81).ipynb)  | [2753 : 윤년](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.3_2753(%EC%9C%A4%EB%85%84).ipynb) |
+| :------------ |:---------------:| -----:|
+|  [2884 : 알람시계]()    | [10817 : 세 수](https://github.com/shiney5213/Algorithm-study/blob/master/python/2.5_10817(%EC%84%B8%20%EC%88%98).ipynb) |     |
 
 
 
-# 2. if문
+### 3. for문
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
-- [1330 : 두 수 비교하기](https://www.acmicpc.net/problem/1330) : 
-- [9498 : 시험 성적](https://www.acmicpc.net/problem/9498) : 
-- [2753 : 윤년](https://www.acmicpc.net/problem/2753) : 
-- [2884 : 알람시계](https://www.acmicpc.net/problem/2884) : 
-- [10817 : 세 수](https://www.acmicpc.net/problem/10817) :
 
-## 
+
+
+
+
+
 - [2775: 부녀회장이 될테야](https://www.acmicpc.net/problem/2775)
-- [python]()
 
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 
 
