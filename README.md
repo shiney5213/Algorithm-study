@@ -22,9 +22,9 @@
 
 
 ### 3. for문
-| [2739 : 구구단](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.1_2739(%EA%B5%AC%EA%B5%AC%EB%8B%A8).ipynb)  | [10950 : A+B-3](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.2_10950(A%20%2B%20B%20-3).ipynb)  | [8393 : 합] |
+| [2739 : 구구단](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.1_2739(%EA%B5%AC%EA%B5%AC%EB%8B%A8).ipynb)  | [10950 : A+B-3](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.2_10950(A%20%2B%20B%20-3).ipynb)  | [8393 : 합](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.3_8393(합).ipynb) |
 | :------------ |:---------------:| -----:|
-| [15552: 빠른 A + B](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.3_15552(%EB%B9%A0%EB%A5%B8%20A%2BB).ipynb)    | [2741 : N찍기] | [2742: 기찍 N] |
+| [15552: 빠른 A + B](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.4_15552(빠른 A%2BB).ipynb) | [2741 : N찍기](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.5_2741(찍기N).ipynb) | [2742: 기찍 N](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.6_2742(기찍N).ipynb) |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
