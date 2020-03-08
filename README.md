@@ -27,7 +27,7 @@
 | :----------------------------------------------------------- | :----------------------------------------------------------: | -----------------------------------------------------------: |
 | [15552: 빠른 A + B](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.4_15552(빠른A%2BB).ipynb) | [2741 : N찍기](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.5_2741(찍기N).ipynb) | [2742: 기찍 N](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.6_2742(기찍N).ipynb) |
 | [11021 : A+B-7](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.7_11021(A%2BB-7).ipynb) | [11022 : A+B-8](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.8_11022(A%2BB-8).ipynb) | [2438 : 별찍기1](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.9_2438(별찍기1).ipynb) |
-| [2439 : 별찍기2]((https://github.com/shiney5213/Algorithm-study/blob/master/python/3.10_2439(별찍기2).ipynb) | [10871 : X보다 작은 수](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.10_2439(별찍기2).ipynb) |                                                              |
+| [2439 : 별찍기2](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.10_2439(별찍기2).ipynb) | [10871 : X보다 작은 수](https://github.com/shiney5213/Algorithm-study/blob/master/python/3.10_2439(별찍기2).ipynb) |                                                              |
 
 
 
