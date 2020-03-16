@@ -27,8 +27,20 @@
 | [2742: 기찍 N](https://github.com/shiney5213/Algorithm-study/blob/master/단계별로풀어보기/3.6_2742(기찍N).ipynb)    | [11021 : A+B-7](https://github.com/shiney5213/Algorithm-study/blob/master/단계별로풀어보기/3.7_11021(A%2BB-7).ipynb) | [11022 : A+B-8](https://github.com/shiney5213/Algorithm-study/blob/master/단계별로풀어보기/3.8_11022(A%2BB-8).ipynb) | [2438 : 별찍기1](https://github.com/shiney5213/Algorithm-study/blob/master/단계별로풀어보기/3.9_2438(별찍기1).ipynb) |  [2439 : 별찍기2](https://github.com/shiney5213/Algorithm-study/blob/master/단계별로풀어보기/3.10_2439(별찍기2).ipynb) |
 |[10871 : X보다 작은 수](https://github.com/shiney5213/Algorithm-study/blob/master/단계별로풀어보기/3.10_2439(별찍기2).ipynb) |                                                              |                                                              |                                                              |
 
+### 4. while문
 
+- [10952:A+B-5](https://github.com/shiney5213/
+      Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.1_10952(%20A%2BB-5).ipynb) 
+- [10951:A+B-4](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.2_10951(%20A%2BB-4).ipynb) 
+- [1110:더하기 사이클](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.3_1110(%EB%8D%94%ED%95%98%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%81%B4).ipynb) 
 
+### 5. 1차원 배열
+
+| [10818 : 최소,최대](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.1_10818(최소%2C최대).ipynb) | [2562 : 최대값](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.2_2562(최댓값).ipynb) | [2577 : 숫자의 개수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.3_2577(숫자의개수).ipynb) | [3052 : 나머지](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.4_3052(나머지).ipynb) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [1546 : 평균](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.5_1546(평균).ipynb) | [8958 : OX퀴즈](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.6_8958(OX퀴즈).ipynb) | [4344 : 평균은 넘겠지](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.7_4344(평균은넘겠지).ipynb) |                                                              |
+
+### 6. 함수
 
 
 
