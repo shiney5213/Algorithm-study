@@ -34,13 +34,28 @@
 - [10951:A+B-4](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.2_10951(%20A%2BB-4).ipynb) 
 - [1110:더하기 사이클](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.3_1110(%EB%8D%94%ED%95%98%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%81%B4).ipynb) 
 
-### 5. 1차원 배열
+### 5. 실습1
+
+
+### 6. 1차원 배열
 
 | [10818 : 최소,최대](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.1_10818(최소%2C최대).ipynb) | [2562 : 최대값](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.2_2562(최댓값).ipynb) | [2577 : 숫자의 개수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.3_2577(숫자의개수).ipynb) | [3052 : 나머지](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.4_3052(나머지).ipynb) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [1546 : 평균](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.5_1546(평균).ipynb) | [8958 : OX퀴즈](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.6_8958(OX퀴즈).ipynb) | [4344 : 평균은 넘겠지](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/5.7_4344(평균은넘겠지).ipynb) |                                                              |
 
-### 6. 함수
+### 7. 함수
+
+- 15596: 정수 N개의 합
+- 4673: 셀프 넘버
+- 1065: 한수
+
+8.문자열
+
+| [11654: 아스키코드](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.1_11654(아스키코드).ipynb) | [11720 : 숫자의 합](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.2_11720(숫자의합).ipynb)| [10809 : 알파벳 찾기](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.3_10809(알파벳찾기).ipynb) | [2675 : 문자열 반복](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.4_2675(문자열 반복).ipynb) | [1157 : 단어 공부](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.5_1157(단어공부).ipynb)) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [1152 : 단어의 개수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.6_1152(단어의개수).ipynb) | [2908 : 상수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.7_2908(상수).ipynb) | [5622 : 다이얼](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.8_5622(다이얼).ipynb) | [2941 : 크로아티아 알파벳](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.9_2941(크로아티아 알파벳).ipynb)) | [1316 : 그룹 단어 체커 ](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8.10_1316(%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%EC%BB%A4).ipynb)                                       |
+
+
 
 
 
