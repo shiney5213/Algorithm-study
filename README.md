@@ -29,8 +29,7 @@
 
 ### 4. while문
 
-- [10952:A+B-5](https://github.com/shiney5213/
-      Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.1_10952(%20A%2BB-5).ipynb) 
+- [10952:A+B-5](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.1_10952(%20A%2BB-5).ipynb) 
 - [10951:A+B-4](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.2_10951(%20A%2BB-4).ipynb) 
 - [1110:더하기 사이클](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/4.3_1110(%EB%8D%94%ED%95%98%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%81%B4).ipynb) 
 
@@ -56,8 +55,7 @@
 | [1152 : 단어의 개수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.6_1152(단어의개수).ipynb) | [2908 : 상수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.7_2908(상수).ipynb) | [5622 : 다이얼](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.8_5622(다이얼).ipynb) | [2941 : 크로아티아알파벳](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/8.9_2941(크로아티아알파벳).ipynb) | [1316 : 그룹 단어 체커 ](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/8.10_1316(%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%EC%BB%A4).ipynb)                                       |
 ### 9. 수학1
 | [1712 : 손익분기점](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.1_1712(%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90).ipynb) | [2839 : 설탕 배달](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.2_2839(%EC%84%A4%ED%83%95%EB%B0%B0%EB%8B%AC).ipynb)  | [2292 : 벌집](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.3_2292(%EB%B2%8C%EC%A7%91).ipynb) |  [1193 : 분수찾기](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.4_1193(%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0).ipynb) | [ 2269 : 달팽이는 올라가고 싶다](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.5_2869(%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%EC%8B%B6%EB%8B%A4).ipynb) |
-| :------------ |:---------------:| -----:|
-| [10250 : ACM 호텔](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.6_10250(ACM%ED%98%B8%ED%85%94).ipynb)   |  [2775: 부녀회장이 될테야](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.7_2775(%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%EB%90%A0%ED%85%8C%EC%95%BC).ipynb) | [1011: Fly me to the Alpha Cenauri](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.8_1011(FlymetotheAlphaCentauri).ipynb) |
+| :------------ |:---------------:| -----:|-----:|-----:|| [10250 : ACM 호텔](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.6_10250(ACM%ED%98%B8%ED%85%94).ipynb)   |  [2775: 부녀회장이 될테야](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.7_2775(%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%EB%90%A0%ED%85%8C%EC%95%BC).ipynb) | [1011: Fly me to the Alpha Cenauri](https://github.com/shiney5213/Study-Algorithm/blob/master/%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0/9.8_1011(FlymetotheAlphaCentauri).ipynb) |
 
 ## 10. 수학2
 
