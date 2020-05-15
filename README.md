@@ -60,9 +60,9 @@
 
 ## 10. 수학2
 
-| [1978: 소수 찾기](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.1_1978(소수찾기).ipynb)) | [2581: 소수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.2_2581(소수).ipynb) | [1929 : 소수 구하기](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.3_1929(소수구하기).ipynb) | [4948 : 베르트랑 공준](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.4_4948(베르트랑_공준).ipynb)| [9020 : 골드바흐의 추츨](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.5_9020(골드바흐의추측).ipynb) |
+| [1978: 소수 찾기](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.1_1978(소수찾기).ipynb) | [2581: 소수](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.2_2581(소수).ipynb) | [1929 : 소수 구하기](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.3_1929(소수구하기).ipynb) | [4948 : 베르트랑 공준](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.4_4948(베르트랑_공준).ipynb)| [9020 : 골드바흐의 추츨](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.5_9020(골드바흐의추측).ipynb) |
 | :------------ |:---------------:| -----:| ------| ------|
-| [1085 : 직사각형에서 탈출](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.6_1085(직사각형에서탈출).ipynb)) | [3009 : 네번째 점](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.7_3009(네번째점).ipynb) | [4153 : 직각 삼각형](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.9_4153(직각삼각형).ipynb) | [3053 : 택시 기하학](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.8_3053(택시기하학).ipynb) | [1002 : 터렛](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.10_1002(터렛).ipynb)) |
+| [1085 : 직사각형에서 탈출](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.6_1085(직사각형에서탈출).ipynb) | [3009 : 네번째 점](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.7_3009(네번째점).ipynb) | [4153 : 직각 삼각형](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.9_4153(직각삼각형).ipynb) | [3053 : 택시 기하학](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.8_3053(택시기하학).ipynb) | [1002 : 터렛](https://github.com/shiney5213/Study-Algorithm/blob/master/단계별로풀어보기/10.10_1002(터렛).ipynb) |
 
 
 
